@@ -25,7 +25,7 @@ def main():
     a = 360/points
     b = 2*a
 
-    left(35)
+    left(b/2)
 
     for i in range(points):
         right(a)
